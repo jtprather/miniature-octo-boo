@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BookService.Models
 {
-    class Author
+    public class Author
     {
         public int Id { get; set; }
         [Required]
